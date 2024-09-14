@@ -31,6 +31,7 @@ class Triangulo extends Distancia {
     }
 }
 //3, 2, 4, 6, 7, 1
+//Proyecto terminado
 let triangulo1 = new Triangulo(0, 0, 1, 1, 2, 2);
 triangulo1.imprimir(); 
 
